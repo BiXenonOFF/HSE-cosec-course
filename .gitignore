@@ -1,2 +1,7 @@
 .vs/
 .vscode/
+.idea/
+out/
+build/
+*.doc
+*.docx
